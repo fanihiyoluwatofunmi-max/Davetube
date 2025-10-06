@@ -1,0 +1,5 @@
+{
+  "name": "DaveTube",
+  "description": "DaveTube: A functional and aesthetically pleasing video sharing platform, built with React, TypeScript, and Tailwind CSS. This app showcases a modern UI with a video grid, video player view, and responsive design.",
+  "requestFramePermissions": []
+}
